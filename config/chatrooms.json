@@ -1,0 +1,9 @@
+[
+{"title":"Lobby","isOfficial":true,"autojoin":true,"desc":"Chat here and tours.","toursEnabled":true,"introMessage":"<center><img src=\"http://th01.deviantart.net/fs71/PRE/i/2011/045/3/2/__latias___latios___valentine_by_evilqueenie-d39ipbc.png\" width=\"500\"height=\"500\"></center><center><b>Welcome to the Light server!</b></center>"},
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true},
+{"title":"Tournaments","isOfficial":true,"desc":"Official Tournaments Scripted here!","auth":{"elitefurpoke":"#","silverwhiteblue":"#"},"introMessage":"Welcome to the Tournament room"},
+{"title":"Help","isOfficial":true,"desc":"Ask to our staff for any questions here!"},
+{"title":"The Phoenix League","desc":"The Phoenix League","auth":{"champproshun":"#"}},
+{"title":"Français","desc":"Bienvenue dans la salle Française ! ^^"},
+{"title":"Test","isPrivate":true}
+]
